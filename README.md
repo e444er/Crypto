@@ -14,7 +14,7 @@
 * Kotlin Gradle
 
 ### Screenshots
-<img src="https://github.com/e444er/Crypto/blob/master/app/libs/Screenone.png" width="200" /> <img src="https://github.com/e444er/Crypto/blob/master/app/libs/Screen2.png" width="200" /> <img src="https://github.com/e444er/Crypto/blob/master/app/libs/Screen3.png" width="400" />
+<img src="https://github.com/e444er/Crypto/blob/master/app/libs/Screenone.png" width="200" /> <img src="https://github.com/e444er/Crypto/blob/master/app/libs/Screen2.png" width="200" /> <img src="https://github.com/e444er/Crypto/blob/master/app/libs/Screen3.png" width="200" height="500" />
 
 ## Libraries
 *   [Dagger 2](https://dagger.dev/hilt)
