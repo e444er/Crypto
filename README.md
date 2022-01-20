@@ -24,3 +24,4 @@
 *   [ViewModel](https://developer.android.com/topic/libraries/architecture/viewmodel)
 *   [Picasso](https://github.com/bumptech/glide)
 *   [Retrofit](https://square.github.io/retrofit/)
+*   [Room](https://square.github.io/retrofit/)
